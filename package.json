@@ -1,0 +1,27 @@
+{
+  "name": "babel-plugin-library-aliases",
+  "version": "0.2.0",
+  "description": "A useful frontend hacking tool.",
+  "bugs": {
+    "url": "https://github.com/AngusFu/babel-plugin-library-aliases/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngusFu/babel-plugin-library-aliases.git"
+  },
+  "license": "MIT",
+  "author": "wemlion <angusfu1126@qq.com>",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "peerDependencies": {
+    "@babel/core": "^7.0.0"
+  },
+  "maintainers": [
+    {
+      "name": "wemlion",
+      "email": "angusfu1126@qq.com"
+    }
+  ]
+}
