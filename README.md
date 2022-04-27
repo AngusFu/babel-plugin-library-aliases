@@ -7,7 +7,7 @@ Just a hacking tool. Useful when you have to **patch** some library dependencies
 SEE [Playground](https://astexplorer.net/#/gist/d8677b464cdd083422ed42fad30f9d15/473977856ffb5665a9bdab47ae6a07b6f75e93a9)
 
 ```js
-// in your babel.conifg.js:
+// in your babel.config.js:
 
 module.exports{
   // ... other fields
